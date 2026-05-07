@@ -1,7 +1,7 @@
 # -bin-bash
 Exelente por ahora
 
-Arturo Tabarez Agustin Padula Facundo Da Costa
+Arturo Tabares Agustin Padula Facundo Da Costa
 
 ASDASODADAS
 
